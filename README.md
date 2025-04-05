@@ -53,7 +53,7 @@ Examples:
 - Properly design a git repository: attach a `requirements.txt` file so I can install the necessary libraries and include a `README.MD` file with the description of your solution.
 
 2. **Submission**:
-- Send a link to your git repository to [mail](gruzdev-as@yandex.ru) before **April 27, 2025, 23:59 Moscow time** (don't forget to open the repository. It's better to open it just before the deadline. Commits after the deadline won't be taken into account)
+- Send a link to your git repository to the [gruzdev-as@yandex.ru](gruzdev-as@yandex.ru) before **April 27, 2025, 23:59 Moscow time** (don't forget to open the repository. It's better to open it just before the deadline. Commits after the deadline won't be taken into account)
 
 ## Evaluation
 **Metric**:
